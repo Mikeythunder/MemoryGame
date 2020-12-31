@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341418719018",
+    "project_id": "memory-mash-ae42b",
+    "storage_bucket": "memory-mash-ae42b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341418719018:android:26c2d8b24dbec9d1899053",
+        "android_client_info": {
+          "package_name": "com.example.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341418719018-vrsm8tu51gjb81aihr6t8uom1hheg8m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7GBL58c-MNgTBEukRyqLnP1B0JF5Kd-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341418719018-vrsm8tu51gjb81aihr6t8uom1hheg8m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

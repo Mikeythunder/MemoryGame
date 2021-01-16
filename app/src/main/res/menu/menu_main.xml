@@ -13,6 +13,10 @@
         android:title="Refresh"
         app:showAsAction="always" />
     <item
+        android:id="@+id/mi_category"
+        android:title="Choose Category"
+        app:showAsAction="never" />
+    <item
         android:id="@+id/mi_custom"
         android:title="Create Game"
         app:showAsAction="never" />

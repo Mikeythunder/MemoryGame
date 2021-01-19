@@ -15,6 +15,7 @@
 ### Overview
 Memory Mash is a creative memory matching app meant to help people with memorization skills, as well as kill time. In this app, the user can create play with a series of default image sets on multiple varying difficulties, as well as create their own game with custom images, that other players can play with. 
 
+App store download: https://play.google.com/store/apps/details?id=com.mjzeolla.mindsEye
 
 
 <img src='https://i.imgur.com/Krmp2YV.gif' width='' alt='Video Walkthrough' />  <img src='https://i.imgur.com/64KnJmv.gif' width='' alt='Video Walkthrough' />
